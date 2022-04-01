@@ -1,0 +1,35 @@
+ body {
+  	background-color: #0EE6BF  ;
+  	text-align: center;<img src="IMG_1927.JPG" width="250" height="350">;
+
+  }
+
+  h1  {
+  	color : blue;
+  	background-color : turquoise;
+  }
+  
+
+  h2 {
+  	color: blue;
+  	background-color: white;
+  }
+
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 16px;
+
+div {
+	width: 900px;
+    height: 150px;
+}
+
+div {
+	margin: 30px;
+	padding: 10px 20px;
+	border: 10px solid darkblue;
+	border-spacing: 50%;
+	box-shadow: 10px 20px 30px skyblue;
+}
+
+
